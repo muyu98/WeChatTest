@@ -1,0 +1,57 @@
+<HdView/>
+
+<view class="banner">
+  <image src="/images/psbanner.jpg" mode="widthFix"></image>
+</view>
+
+<view class="psBox">
+  <view class="psBoxTit">
+  专业转件技能
+  </view>
+  <view class="psBoxConOne">
+    <view class="item">
+      <image src="/images/photoshop.png1.png"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/photoshop.png1.png"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/photoshop.png1.png"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/photoshop.png1.png"></image>
+      <view>photoshop</view>
+    </view>
+    <view class="item">
+      <image src="/images/photoshop.png1.png"></image>
+      <view>photoshop</view>
+    </view>
+  </view>
+</view>
+
+<view class="psBox" wx:for="{{6}}">
+  <view class="psBoxTit">
+  专业转件技能
+  </view>
+  <view class="psBoxCon">
+    <image src="/images/psmajor02.jpg2.jpg" mode="widthFix">
+    </image>
+    <view class="text">
+      <view>人像精修</view>
+      <view>商业广告片调色</view> 
+      <view>商业海报级视觉精修</view> 
+      <view>卡通人物制作</view> 
+      <view>2.5D插画制作</view> 
+      <view>3D文字视觉特效制作</view> 
+      <view>平面广告创意</view> 
+      <view>合成特效制作</view>   
+    </view>
+  </view>
+</view>
+
+
+
+<FtView></FtView>

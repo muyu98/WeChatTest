@@ -1,0 +1,4 @@
+.pubTitle{display: flex;justify-content: space-between;margin-bottom: 40rpx;}
+.pubTitle .txt{font-size: 40rpx;margin-left: -410rpx;}
+.pubTitle .bl{width: 12rpx;height: 30rpx;background: #c8020b;margin-top: 15rpx;}
+.pubTitle .more{font-size: 34rpx;color: #666;}

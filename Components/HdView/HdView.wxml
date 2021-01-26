@@ -1,0 +1,16 @@
+<view class="header">
+  <view class="container hdCon">
+
+    <navigator class="logo" open-type="switchTab" url="/pages/index/index">
+      <image class="hdPic" src="/images/logo.png" mode="heightFix"></image>
+    </navigator>
+
+    <view class="kefu">
+      <image class="hdPic" src="/images/xiaoxi.png" mode="heightFix">
+      </image>   
+      <button class="btn" open-type="contact"> 
+      </button> 
+    </view> 
+
+  </view>
+</view>

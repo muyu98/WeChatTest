@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "HdView":"/Components/HdView/HdView",
+    "FtView":"/Components/FtView/FtView"
+  }
+}
